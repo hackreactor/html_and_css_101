@@ -1,6 +1,6 @@
 # Hack Reactor: HTML and CSS Workshop
 
-It's time to build a website! Leverage the knowledge you gained during the workshop lectures to make your own site. If you know how to create html and css files on your computer and use a text editor to write code, go ahead and get a site going that way. If not, follow these steps to create an environment where you can start writing code:
+It's time to build a website! Leverage the knowledge you gained during the workshop lectures to make your own site. If you know how to create HTML and CSS files on your computer and use a text editor to write code, go ahead and get a site going that way. If not, follow these steps to create an environment where you can start writing code:
 
 1. Go to [repl.it](https://repl.it)
 2. Click on the 'new repl' button
